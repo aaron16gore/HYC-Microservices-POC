@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|c:\\codingprojects\\hyc-microservices-poc\\hycmspoc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|c:\\codingprojects\\hyc-microservices-poc\\hycmspoc\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|c:\\codingprojects\\hyc-microservices-poc\\hycmspoc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|c:\\codingprojects\\hyc-microservices-poc\\hycmspoc\\hycmspoc.web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|solutionrelative:hycmspoc.web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|c:\\codingprojects\\hyc-microservices-poc\\hycmspoc\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|c:\\codingprojects\\hyc-microservices-poc\\hycmspoc\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D7FE9CA-73D8-4433-BE3B-2A482F69EA57}|HycMsPoc.csproj|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:18:32.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T02:18:21.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T02:18:11.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HycMsPoc.Web.http",
+              "DocumentMoniker": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\HycMsPoc.Web.http",
+              "RelativeDocumentMoniker": "HycMsPoc.Web.http",
+              "ToolTip": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\HycMsPoc.Web.http",
+              "RelativeToolTip": "HycMsPoc.Web.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-15T02:18:00.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-15T02:17:53.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\CodingProjects\\HYC-Microservices-POC\\HycMsPoc\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:17:46.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

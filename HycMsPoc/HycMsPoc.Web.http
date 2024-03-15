@@ -1,0 +1,6 @@
+@HycMsPoc.Web_HostAddress = http://localhost:5079
+
+GET {{HycMsPoc.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
